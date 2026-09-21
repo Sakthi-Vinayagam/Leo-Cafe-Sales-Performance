@@ -38,14 +38,28 @@ The dashboard provides a clear view of sales performance across different produc
 
 ## 📈 Key Insights
 
-The dashboard helps identify:
+## 📊 Key Insights
 
-- Which product categories generate higher sales
-- Which products contribute significantly to overall sales
-- Which locations perform better
-- Peak sales hours during the day
-- Differences between weekday and weekend sales
-- Monthly sales trends
+* 💰 **Total Sales:** $108.17M
+* 🧾 **Total Transactions:** 149,116
+* 📦 **Total Quantity Sold:** 214,470
+* ☕ **Top Category:** Coffee – $15.8M
+* 🏆 **Top Product:** Barista Espresso – $1.50M
+* 📍 **Top Location:** Hell's Kitchen – $12.4M
+* 📅 **Highest Sales Month:** June – $6.1M
+* 🕙 **Peak Sales Hour:** 10:00 AM – $1.73M
+* 📈 **Weekday Sales:** 86.94%
+* 📉 **Weekend Sales:** 13.06%
+
+### 🔍 Business Insights
+
+* Hell's Kitchen generated the highest sales among the three locations.
+* June recorded the highest monthly sales.
+* Coffee was the leading sales category, followed by Tea.
+* Barista Espresso was the highest-selling product based on sales value.
+* Sales were heavily concentrated on weekdays compared with weekends.
+* 10:00 AM recorded the highest hourly sales, indicating a strong morning sales period.
+
 
 ## 📷 Dashboard Preview
 
