@@ -49,7 +49,7 @@ The dashboard helps identify:
 
 ## 📷 Dashboard Preview
 
-![LEO Café Sales Performance](Leo%20Cafe%20Sales%20Performance.png)
+![LEO Café Sales Performance](<Leo%20Cafe%20Sales%20Dashboard%20.png>)
 
 
 
